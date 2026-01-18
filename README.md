@@ -125,21 +125,6 @@ const COLORS = {
 
 Your habit data is stored locally on your device in Scriptable's documents directory. The data persists across app restarts and widget refreshes.
 
-## Troubleshooting
-
-### Widget shows old data
-iOS widgets refresh on their own schedule. Tap the widget to open the app, which forces a refresh.
-
-### GoHome shortcut not working
-Make sure the shortcut is named exactly `GoHome` (case-sensitive).
-
-### Location not showing
-The widget needs location permissions. Go to Settings > Privacy > Location Services > Scriptable and allow location access.
-
 ## License
 
 MIT License - feel free to modify and share!
-
-## Credits
-
-Built with [Scriptable](https://scriptable.app/) for iOS.
