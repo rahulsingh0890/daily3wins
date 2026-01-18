@@ -2,7 +2,9 @@
 
 A beautiful iOS widget for tracking your daily wins across three key areas of life: **Physical**, **Intellectual**, and **Spiritual**.
 
-![Daily3Wins Preview](Preview%20Images/preview-2.png)
+<p align="center">
+  <img src="Preview%20Images/preview-2.png" width="350" alt="Daily3Wins Preview">
+</p>
 
 ## Inspiration
 
@@ -23,7 +25,9 @@ By tracking just three simple wins each day, you build momentum and create lasti
 - Tap to toggle habits through a simple menu
 - Auto-return to home screen after toggling
 
-![Widget Preview](Preview%20Images/preview-1.png)
+<p align="center">
+  <img src="Preview%20Images/preview-1.png" width="300" alt="Widget Preview">
+</p>
 
 ## Requirements
 
